@@ -1,6 +1,6 @@
 # rekt
 Now
 ```
-git pull origin shrekt
+git pull origin rekt
 ```
 is a thing.
