@@ -1,2 +1,6 @@
 # rekt
-Now git pull origin shrekt is a thing.
+Now
+```
+git pull origin shrekt
+```
+is a thing.
