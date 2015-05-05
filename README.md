@@ -1,6 +1,6 @@
 # rekt
 Now
 ```
-git pull origin rekt
+git pull origin shrekt
 ```
-is a thing. Even better: [killmous/git-rekt](https://github.com/killmous/git-rekt).
+is a thing.
