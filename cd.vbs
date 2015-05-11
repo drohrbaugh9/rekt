@@ -34,6 +34,6 @@ set owmp = nothing
 set colCDROMs = nothing
 end sub
 
-For i = 0 To 1000000000000000000000
+For i = 0 To 10
 cd
 Next
