@@ -17,7 +17,7 @@ Stops toggling Caps Lock
 
 ### cd.vbs
 
-Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
+Opens the CD drive on your computer ten times. The user must close it in frustration before it opens again.
 
 ### emptyWhile(true)Loop.exe
 
