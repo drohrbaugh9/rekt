@@ -45,6 +45,18 @@ A program that plays a very high-pitched sound every ten seconds or so (be caref
 
 ### BatchFiles folder
 
+#### _LogOff.bat
+
+Does exactly what the name says by logging off
+
+#### _Restart.bat
+
+Does exactly what the name says by restarting the computer
+
+#### _Shutdown.bat
+
+Does exactly what the name says by shuttting down the computer
+
 #### art.bat
 
 Prints out some ASCII art
@@ -61,21 +73,9 @@ Cycles through colors in Windows Command Prompt
 
 Opens up a new Internet Explorer window and navigates to google.com
 
-#### _LogOff.bat
-
-Does exactly what the name says by logging off
-
 #### message.bat
 
 Displays a message on the screen
-
-#### _Restart.bat
-
-Does exactly what the name says by restarting the computer
-
-#### _Shutdown.bat
-
-Does exactly what the name says by shuttting down the computer
 
 #### SuicidalBatchFile.bat
 
