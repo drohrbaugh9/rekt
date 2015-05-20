@@ -1,80 +1,80 @@
-## DISCLAIMER
+# DISCLAIMER
 Before you run any program, check the list below to see what it will do...
 
-### CapsLock.vbs
+## CapsLock.vbs
 
 Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
 
-### cd.vbs
+## cd.vbs
 
 Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
 
-### emptyWhile(true)Loop.exe
+## emptyWhile(true)Loop.exe
 
 Simply runs a while(true) loop with no code inside
 
-### HAIWORLD.lol
+## HAIWORLD.lol
 
 A LOLCODE version of the classic HelloWorld program
 
-### mari0-win.zip
+## mari0-win.zip
 
 A game combining Super Mario Bros and Portal
 
-### notpacman-win.zip
+## notpacman-win.zip
 
 Pacman, but with physics
 
-### PointlessButton.exe
+## PointlessButton.exe
 
 Opens a very small window with a button that does nothing in it
 
-### rooster_crow.wav
+## rooster_crow.wav
 
 A sound file that sounds like a rooster crowing (be careful with your volume)
 
-### winsys32.exe
+## winsys32.exe
 
 A program that plays a very high-pitched sound every ten seconds or so (be careful with the volume)
 
-### BatchFiles folder
+## BatchFiles folder
 
-#### art.bat
+### art.bat
 
 Prints out some ASCII art
 
-#### art.txt
+### art.txt
 
 source of ASCII art for art.bat
 
-#### color.bat
+### color.bat
 
 Cycles through colors in Windows Command Prompt
 
-#### IE.bat
+### IE.bat
 
 Opens up a new Internet Explorer window and navigates to google.com
 
-#### _LogOff.bat
+### _LogOff.bat
 
 Does exactly what the name says by logging off
 
-#### message.bat
+### message.bat
 
 Displays a message on the screen
 
-#### _Restart.bat
+### _Restart.bat
 
 Does exactly what the name says by restarting the computer
 
-#### _Shutdown.bat
+### _Shutdown.bat
 
 Does exactly what the name says by shuttting down the computer
 
-#### SuicidalBatchFile.bat
+### SuicidalBatchFile.bat
 
 Immediately kills itself
 
-#### time.bat
+### time.bat
 
 Prints out the current date and time until you kill it
