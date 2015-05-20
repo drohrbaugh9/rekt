@@ -1,2 +1,2 @@
 @echo off
-start iexplore google.com
+start iexplore bing.com
