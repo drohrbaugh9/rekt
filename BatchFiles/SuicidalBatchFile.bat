@@ -1,1 +1,1 @@
-sudo xkill SuicidalBatchFile.bat
+taskkill /IM SuicidalBatchFile.bat /F
