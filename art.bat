@@ -1,0 +1,1 @@
+type art.txt
