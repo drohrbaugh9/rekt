@@ -1,1 +1,0 @@
-sudo xkill suicidalbatchfile.bat
