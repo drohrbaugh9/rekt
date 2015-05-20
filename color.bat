@@ -1,3 +1,5 @@
+@echo off
+color -1
 color 0a
 :: color 1b
 :: color 2c
