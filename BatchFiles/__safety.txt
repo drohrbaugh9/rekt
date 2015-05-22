@@ -1,0 +1,1 @@
+This file is only here so that when opening this folder you do not open a batch file as well.
