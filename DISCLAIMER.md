@@ -1,5 +1,5 @@
 # DISCLAIMER
-Before you run any program, check the list below to see what it will do...
+Before you run any program, check the list below to see what it will do. If you mess up your computer or someone else's computer, it is not my fault.
 
 ## CapsLock.vbs
 
