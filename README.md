@@ -81,7 +81,7 @@ Opens up a new Internet Explorer window and navigates to google.com
 
 Displays a message on the screen
 
-### mouseButtons.bat
+#### mouseButtons.bat
 
 Switches the primary mouse button
 
