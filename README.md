@@ -13,7 +13,7 @@ Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
 
 ### CapsLockKill.bat
 
-Stops toggling Caps Lock
+Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off when it's done
 
 ### cd.vbs
 

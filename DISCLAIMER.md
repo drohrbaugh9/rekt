@@ -5,6 +5,10 @@ Before you run any program, check the list below to see what it will do...
 
 Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
 
+## CapsLockKill.bat
+
+Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off when it's done
+
 ## cd.vbs
 
 Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
