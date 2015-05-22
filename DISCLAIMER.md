@@ -63,6 +63,10 @@ Does exactly what the name says by logging off
 
 Displays a message on the screen
 
+### mouseButtons.bat
+
+Switches the primary mouse button
+
 ### _Restart.bat
 
 Does exactly what the name says by restarting the computer
