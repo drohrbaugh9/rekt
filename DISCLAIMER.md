@@ -13,6 +13,10 @@ Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off 
 
 Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
 
+## DISCLAIMER.md
+
+This file
+
 ## emptyWhile(true)Loop.exe
 
 Simply runs a while(true) loop with no code inside
@@ -33,6 +37,10 @@ Pacman, but with physics
 
 Opens a very small window with a button that does nothing in it
 
+## README.md
+
+The readme file for this repository
+
 ## rooster_crow.wav
 
 A sound file that sounds like a rooster crowing (be careful with your volume)
@@ -42,6 +50,22 @@ A sound file that sounds like a rooster crowing (be careful with your volume)
 A program that plays a very high-pitched sound every ten seconds or so (be careful with the volume)
 
 ## BatchFiles folder
+
+### __safety.txt
+
+A file to prevent the accidental running of a batch file upon opening this folder
+
+### _LogOff.bat
+
+Does exactly what the name says by logging off
+
+### _Restart.bat
+
+Does exactly what the name says by restarting the computer
+
+### _Shutdown.bat
+
+Does exactly what the name says by shuttting down the computer
 
 ### art.bat
 
@@ -57,11 +81,7 @@ Cycles through colors in Windows Command Prompt
 
 ### IE.bat
 
-Opens up a new Internet Explorer window and navigates to google.com
-
-### _LogOff.bat
-
-Does exactly what the name says by logging off
+Opens up a new Internet Explorer window and navigates to bing.com
 
 ### message.bat
 
@@ -70,14 +90,6 @@ Displays a message on the screen
 ### mouseButtons.bat
 
 Switches the primary mouse button
-
-### _Restart.bat
-
-Does exactly what the name says by restarting the computer
-
-### _Shutdown.bat
-
-Does exactly what the name says by shuttting down the computer
 
 ### SuicidalBatchFile.bat
 
