@@ -47,7 +47,7 @@ A sound file that sounds like a rooster crowing (be careful with your volume)
 
 ## speak.vbs
 
-A program that speaks a message using Window's built in text to voice function
+A program that "enables" "Windows Voice" (speaks messages using Window's built in text to voice function)
 
 ## winsys32.exe
 
