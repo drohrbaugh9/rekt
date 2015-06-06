@@ -31,22 +31,23 @@ A game combining Super Mario Bros and Portal
 
 ## NitroTypeWin.vbs
 
-A script that allows users to reach a speed of up to 300 WPM on the Nitro Type website. Only run this script when racing as a guest, otherwise you will get <b>banned.</b> This script automatically starts NitroTypeWinKill.vbs.
+A script that allows users to reach a speed of up to 300 WPM on the Nitro Type website. Only run this script when racing as a guest, otherwise you will get <b>banned.</b> This script automatically starts NitroTypeWinKill.vbs. <b>DO NOT</b> set the delay lower than 50 milliseconds. You've been warned.
 
 ### How to use:
 
 1. Go to [nitrotype.com](https://www.nitrotype.com)
-2. Race as a guest
-3. Do the qualification race if there is one
-4. Race again
-5. Wait until a the race is about to start
-6. Run this script
-7. Click back to your web browser
-8. Click on the box where the words are on the Nitro Type page
+1. If you are logged in, log out
+1. Race as a guest
+1. Do the qualification race if there is one
+1. Race again
+1. Wait until a the race is about to start
+1. Run this script
+1. Click back to your web browser
+1. Click on the box where the words are on the Nitro Type page
 
 ## NitroTypeWinKill.vbs
 
-A script that is run by NitroTypeWin.vbs which kills NitroTypeWin.vbs after 30 seconds. <b>DO NOT</b> set the delay lower than 50 milliseconds. You've been warned.
+A script that is run by NitroTypeWin.vbs which kills it after 30 seconds.
 
 ## notpacman-win.zip
 
