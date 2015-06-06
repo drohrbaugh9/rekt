@@ -45,6 +45,10 @@ The readme file for this repository
 
 A sound file that sounds like a rooster crowing (be careful with your volume)
 
+## speak.vbs
+
+A program that speaks a message using Window's built in text to voice function
+
 ## winsys32.exe
 
 A program that plays a very high-pitched sound every ten seconds or so (be careful with the volume)
