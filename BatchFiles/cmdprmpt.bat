@@ -10,7 +10,7 @@ REM SET /a rand=%random% %%10 +1
 REM IF %rand% EQU 2 color A
 REM IF %rand% EQU 3 (
 REM 	You have been hacked...
-REM 	timeout /t 1 /nobreak >nul
+REM 	timeout /t 5 /nobreak >nul
 REM 	exit
 REM )
 goto A
