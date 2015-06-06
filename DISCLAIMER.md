@@ -35,7 +35,7 @@ A script that allows users to reach a speed of up to 300 WPM on the Nitro Type w
 
 ### How to use:
 
-1. Go to [nitrotype.com](www.nitrotype.com)
+1. Go to [nitrotype.com](https://www.nitrotype.com)
 2. Race as a guest
 3. Do the qualification race if there is one
 4. Race again
