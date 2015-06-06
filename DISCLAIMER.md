@@ -79,6 +79,10 @@ Prints out some ASCII art
 
 source of ASCII art for art.bat
 
+### cmdprmpt.bat
+
+Clone of Command Prompt that always gives an error.
+
 ### color.bat
 
 Cycles through colors in Windows Command Prompt
