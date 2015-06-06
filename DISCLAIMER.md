@@ -29,6 +29,25 @@ A LOLCODE version of the classic HelloWorld program
 
 A game combining Super Mario Bros and Portal
 
+## NitroTypeWin.vbs
+
+A script that allows users to reach a speed of up to 300 WPM on the Nitro Type website. Only run this script when racing as a guest, otherwise you will get <b>banned.</b> This script automatically starts NitroTypeWinKill.vbs.
+
+### How to use:
+
+Go to [nitrotype.com](www.nitrotype.com)
+Race as a guest
+Do the qualification race if there is one
+Race again
+Wait until a the race is about to start
+Run this script
+Click back to your web browser
+Click on the box where the words are on the Nitro Type page
+
+## NitroTypeWinKill.vbs
+
+A script that is run by NitroTypeWin.vbs which kills NitroTypeWin.vbs after 30 seconds. <b>DO NOT</b> set the delay lower than 50 milliseconds. You've been warned.
+
 ## notpacman-win.zip
 
 Pacman, but with physics
