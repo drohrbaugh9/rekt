@@ -1,3 +1,4 @@
+:: https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#cmdprmptbat
 @echo off
 echo Microsoft Windows [Version 6.1.7601]
 echo Copyright (c) 2009 Microsoft Corporation. All rights reserved.
