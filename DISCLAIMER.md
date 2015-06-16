@@ -44,7 +44,7 @@ A script that allows users to reach a speed of up to 300 WPM on the Nitro Type w
 1. Race as a guest
 1. Do the qualification race if there is one
 1. Race again
-1. Wait until a the race is about to start
+1. Wait until the race is about to start
 1. Run this script
 1. Click back to your web browser
 1. Click on the box where the words are on the Nitro Type page
