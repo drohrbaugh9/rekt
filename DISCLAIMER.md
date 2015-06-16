@@ -131,6 +131,10 @@ Displays a message on the screen
 
 Switches the primary mouse button
 
+### sound.bat
+
+Plays a short sound
+
 ### SuicidalBatchFile.bat
 
 Immediately kills itself
