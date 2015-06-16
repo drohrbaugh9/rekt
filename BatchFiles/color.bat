@@ -1,3 +1,4 @@
+:: https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#colorbat
 @echo off
 :A
 color 0a
