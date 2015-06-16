@@ -1,3 +1,4 @@
+' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#speakvbs
 Dim message, sapi
 message="Windows Voice has been enabled! How can I help you?"
 Set sapi=CreateObject("sapi.spvoice")
