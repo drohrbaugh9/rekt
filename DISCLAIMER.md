@@ -145,29 +145,43 @@ Prints out the current date and time until you kill it
 
 A picture of LCHS
 
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/00707_95wwAiBbD5Z_600x450.jpg"/>
+
 ### 6169(1).png
 
 Part of the map showing where LCHS is
+
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6169(1).png"/>
 
 ### 6169.png
 
 Another part of the map showing where LCHS is
 
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6169.png"/>
+
 ### 6170(1).png
 
 Another part of the map showing where LCHS is
+
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6170(1).png"/>
 
 ### 6170.png
 
 Another part of the map showing where LCHS is
 
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6170.png"/>
+
 ### 6171(1).png
 
 Another part of the map showing where LCHS is
 
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6171(1).png"/>
+
 ### 6171.png
 
 Another part of the map showing where LCHS is
+
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/6171.png"/>
 
 ### cl.css
 
@@ -193,9 +207,13 @@ HTML file used by the webpage
 
 Marker for the map showing where LCHS is
 
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/marker-icon.png"/>
+
 ### marker-shadow.png
 
 Shadow for the marker for the map showing where LCHS is
+
+<img src="https://raw.githubusercontent.com/drohrbaugh9/rekt/shrekt/SCHOOLFORSALEbyClassof2015files/marker-shadow.png"/>
 
 ### postings-concat.min.js
 
