@@ -1,6 +1,10 @@
 # DISCLAIMER
 Before you run any program, check the list below to see what it will do. If you mess up your computer or someone else's computer, it is not my fault.
 
+## _error.js
+
+A JavaScript file referenced by PageNotFoundGitHub.html
+
 ## CapsLock.vbs
 
 Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
@@ -53,6 +57,10 @@ A script that is run by NitroTypeWin.vbs which kills it after 30 seconds.
 
 Pacman, but with physics
 
+## PageNotFoundGitHub.html
+
+A local copy of GitHub's 404 page
+
 ## PointlessButton.exe
 
 Opens a very small window with a button that does nothing in it
@@ -64,6 +72,10 @@ The readme file for this repository
 ## rooster_crow.wav
 
 A sound file that sounds like a rooster crowing (be careful with your volume)
+
+## SCHOOLFORSALEbyClassof2015.html
+
+A local copy of part of LCHS's Class of 2015's senior prank; they offered the school for sale on Craigslist.
 
 ## speak.vbs
 
@@ -126,3 +138,65 @@ Immediately kills itself
 ### time.bat
 
 Prints out the current date and time until you kill it
+
+## SCHOOLFORSALEbyClassof2015files folder
+
+### 00707_95wwAiBbD5Z_600x450.jpg
+
+A picture of LCHS
+
+### 6169(1).png
+
+Part of the map showing where LCHS is
+
+### 6169.png
+
+Another part of the map showing where LCHS is
+
+### 6170(1).png
+
+Another part of the map showing where LCHS is
+
+### 6170.png
+
+Another part of the map showing where LCHS is
+
+### 6171(1).png
+
+Another part of the map showing where LCHS is
+
+### 6171.png
+
+Another part of the map showing where LCHS is
+
+### cl.css
+
+One of the cascading style sheets for the webpage
+
+### general-concat.min.js
+
+A JavaScript file used by the webpage
+
+### leaflet-concat.min.js
+
+Another JavaScript file used by the webpage
+
+### leaflet-stock.css
+
+The other cascading style sheet for the webpage
+
+### localstorage.html
+
+HTML file used by the webpage
+
+### marker-icon.png
+
+Marker for the map showing where LCHS is
+
+### marker-shadow.png
+
+Shadow for the marker for the map showing where LCHS is
+
+### postings-concat.min.js
+
+Another JavaScript file used by the webpage
