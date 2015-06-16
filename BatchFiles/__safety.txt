@@ -1,1 +1,2 @@
+https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#__safetytxt
 This file is only here so that when opening this folder you do not open a batch file as well.
