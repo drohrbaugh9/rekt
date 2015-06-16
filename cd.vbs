@@ -1,3 +1,4 @@
+' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#cdvbs
 sub CD
 Dim ts
 Dim strDriveLetter
