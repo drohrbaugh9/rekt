@@ -15,7 +15,7 @@ public class FourthSoliloquy {
     Or to take arms against a sea of troubles,
     And by opposing end them?*/
     question = isNobler(this.suffer(Fortune.slings, Fortune.arrows), this.takeArmsAgainst(sea = new SeaOfTroubles()));
-    if (question) { this.oppose(sea); sea.end(); }
+    if (!question) { this.oppose(sea); sea.end(); }
     
     
     /*                       To die: to sleep;
