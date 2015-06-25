@@ -1,7 +1,8 @@
-import org.Shakespeare.Hamlet.*
-import org.Shakespeare.Fortune
-import org.Shakespeare.DreamException
-import org.Shakespeare.Rub
+/*import org.Shakespeare.Hamlet.*;
+import org.Shakespeare.Fortune;
+import org.Shakespeare.DreamException;
+import org.Shakespeare.Rub;*/
+import org.Shakespeare.*;
 
 public class FourthSoliloquy {
 
@@ -20,18 +21,17 @@ public class FourthSoliloquy {
       oppose(sea); sea.end();
     }
     
-    
     /*                         To die: to sleep;
       No more; and by a sleep to say we end
       The heart-ache and the thousand natural shocks
       That flesh is heir to, 'tis a consummation
       Devoutly to be wish'd.*/
-    wish(die(), sleep());
-    if (die || sleep) { end(getHeartache(), getShocks("natural")); }
+    wish(Life.die(), Life.sleep());
+    if (die || sleep) { end(Life.getHeartache(), Life.getShocks("natural")); }
     
     /*                       To die, to sleep;
       To sleep: perchance to dream: ay, there's the rub;*/
-    try { die(); sleep(); } catch (DreamException dream) { rub = dream.getRub(); }
+    try { Life.die(); Life.sleep(); } catch (DreamException dream) { rub = dream.getRub(); }
     
     /*For in that sleep of death what dreams may come
       When we have shuffled off this mortal coil,
