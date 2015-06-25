@@ -7,11 +7,10 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 ## CapsLock.vbs
 
-Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
-
+Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not. Here is the code as of 2015-06-25:
 ```
 ' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#capslockvbs
-Set wshShell =wscript.CreateObject("WScript.Shell")
+Set wshShell=wscript.CreateObject("WScript.Shell")
 do
 wscript.sleep 100
 wshshell.sendkeys"{CAPSLOCK}"
@@ -64,7 +63,7 @@ A script that allows users to reach a speed of up to 300 WPM on the Nitro Type w
 
 ## NitroTypeWinKill.vbs
 
-A script that is run by NitroTypeWin.vbs which kills it after 30 seconds.
+A script that is run by NitroTypeWin.vbs which kills it after 60 seconds.
 
 ## notpacman-win.zip
 
