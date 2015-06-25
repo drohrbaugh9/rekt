@@ -9,6 +9,15 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not.
 
+```
+' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#capslockvbs
+Set wshShell =wscript.CreateObject("WScript.Shell")
+do
+wscript.sleep 100
+wshshell.sendkeys"{CAPSLOCK}"
+loop
+```
+
 ## CapsLockKill.bat
 
 Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off when it's done
@@ -24,6 +33,10 @@ This file
 ## emptyWhile(true)Loop.exe
 
 Simply runs a while(true) loop with no code inside
+
+## FourthSoliloquy.java
+
+A java file with Hamlet's famous soliloquy and a java version as well
 
 ## HAIWORLD.lol
 
@@ -81,9 +94,13 @@ A local copy of part of LCHS's Class of 2015's senior prank; they offered the sc
 
 A program that "enables" "Windows Voice" (speaks messages using Window's built in text to voice function)
 
+## werewolf.vbs
+
+A script that can replace the One Night Ultimate Werewolf app if no smartphone is available
+
 ## winsys32.exe
 
-A program that plays a very high-pitched sound every ten seconds or so (be careful with the volume)
+A program that plays two very high-pitched sounds every ten seconds or so (be careful with the volume)
 
 ## BatchFiles folder
 
