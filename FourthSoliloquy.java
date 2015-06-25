@@ -1,10 +1,12 @@
 import org.Shakespeare.Hamlet.*
 import org.Shakespeare.Fortune
 import org.Shakespeare.DreamException
+import org.Shakespeare.Rub
 
 public class FourthSoliloquy {
 
   boolean toBe, question, die, sleep;
+  Rub rub;
 
   public void soliloquize() {
     //To be, or not to be: that is the question:
@@ -14,8 +16,8 @@ public class FourthSoliloquy {
       The slings and arrows of outrageous fortune,
       Or to take arms against a sea of troubles,
       And by opposing end them?*/
-    if (!isNobler(this.suffer(Fortune.slings, Fortune.arrows), this.takeArmsAgainst(sea = new SeaOfTroubles()))) {
-      this.oppose(sea); sea.end();
+    if (!isNobler(suffer(Fortune.slings, Fortune.arrows), takeArmsAgainst(sea = new SeaOfTroubles()))) {
+      oppose(sea); sea.end();
     }
     
     
@@ -24,12 +26,12 @@ public class FourthSoliloquy {
       The heart-ache and the thousand natural shocks
       That flesh is heir to, 'tis a consummation
       Devoutly to be wish'd.*/
-    if (this.die || this.sleep) { this.end(this.getHeartache, this.getShocks("natural")); }
-    this.wish(this.die, this.sleep);
+    wish(die(), sleep());
+    if (die || sleep) { end(getHeartache(), getShocks("natural")); }
     
     /*                       To die, to sleep;
       To sleep: perchance to dream: ay, there's the rub;*/
-    try { this.die; this.sleep; } catch (DreamException dream) { this.rub = dream.getRub(); }
+    try { die(); sleep(); } catch (DreamException dream) { rub = dream.getRub(); }
     
     /*For in that sleep of death what dreams may come
       When we have shuffled off this mortal coil,
