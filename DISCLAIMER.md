@@ -37,9 +37,25 @@ Simply runs a while(true) loop with no code inside
 
 A java file with Hamlet's famous soliloquy and a java version as well
 
+## FPAW3SuperShell.swf
+
+A .swf file containing Fancy Pants World 3, the third game in Brad Borne's Fancy Pants series.
+
+## FPAWorld1+07a.swf
+
+A .swf file containing Fancy Pants World 1, the first game in Brad Borne's Fancy Pants series.
+
+## FPAWorld2.swf
+
+A .swf file containing Fancy Pants World 2, the second game in Brad Borne's Fancy Pants series.
+
 ## HAIWORLD.lol
 
 A LOLCODE version of the classic HelloWorld program
+
+## herring.vbs
+
+A script that uses Windows' text to voice function to say a famous quote from "Monty Python and the Holy Grail"
 
 ## mari0-win.zip
 
