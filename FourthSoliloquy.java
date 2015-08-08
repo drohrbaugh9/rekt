@@ -23,7 +23,7 @@ public class FourthSoliloquy {
       And by opposing end them?*/
     String[] troubles = new String[Math.MAX_VALUE]
     if (!isNobler(suffer(Fortune.slings, Fortune.arrows), takeArmsAgainst(sea = new Sea(troubles)))) {
-      oppose(sea); end(troubles);
+        oppose(sea); end(troubles);
     }
     
     /*                         To die: to sleep;
