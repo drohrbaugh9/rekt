@@ -1,8 +1,4 @@
 //https://github.com/drohrbaugh9/rekt/blob/shrekt/FourthSoliloquy.java
-/*import org.Shakespeare.Hamlet.*;
-import org.Shakespeare.Fortune;
-import org.Shakespeare.DreamException;
-import org.Shakespeare.Rub;*/
 import org.Shakespeare.*;
 
 public class FourthSoliloquy {
