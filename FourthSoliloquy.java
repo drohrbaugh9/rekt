@@ -1,4 +1,4 @@
-//https://github.com/drohrbaugh9/rekt/blob/shrekt/FourthSoliloquy.java
+//https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#fourthsoliloquyjava
 import org.Shakespeare.*;
 
 public class FourthSoliloquy {
