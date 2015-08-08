@@ -21,7 +21,7 @@ public class FourthSoliloquy {
       The slings and arrows of outrageous fortune,
       Or to take arms against a sea of troubles,
       And by opposing end them?*/
-	String[] troubles = new String[Math.MAX_VALUE]
+    String[] troubles = new String[Math.MAX_VALUE]
     if (!isNobler(suffer(Fortune.slings, Fortune.arrows), takeArmsAgainst(sea = new Sea(troubles)))) {
       oppose(sea); end(troubles);
     }
