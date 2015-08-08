@@ -56,8 +56,8 @@ public class FourthSoliloquy {
       When he himself might his quietus make
       With a bare bodkin?*/
     for (person : earth.getPeople()) {
-        if (!(person.wouldBear(time.getWhipsAndScorns()) || person.wouldBear(time.getOpressorsWrong()) || person.wouldBear(time.getProudMan().getContumely()) || person.wouldBear(time.getDespisedLove().getPangs()) || person.wouldBear(time.getLaw().getDelay()) || person.wouldBear(time.getOffice().getInsolence()) || person.wouldBear(time.getSpurnsTakenBy(time.getPatientMerit())))) {
-			person.giveOption(life.death);
+    	if (!(person.wouldBear(time.getWhipsAndScorns()) || person.wouldBear(time.getOpressorsWrong()) || person.wouldBear(time.getProudMan().getContumely()) || person.wouldBear(time.getDespisedLove().getPangs()) || person.wouldBear(time.getLaw().getDelay()) || person.wouldBear(time.getOffice().getInsolence()) || person.wouldBear(time.getSpurnsTakenBy(time.getPatientMerit())))) {
+    		person.giveOption(life.death);
 		}
 	}
 	                     /*who would fardels bear,
