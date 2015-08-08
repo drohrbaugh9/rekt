@@ -41,11 +41,11 @@ public class FourthSoliloquy {
       When we have shuffled off this mortal coil,
       Must give us pause: there's the respect
       That makes calamity of so long life;*/
-	shuffleOff(this.mortalCoil);
-	for (dream : sleepOfDeath.getDreams()) {
-		dream.givePause(this);
-		dream.getRespect.makeCalamityOf(life);
-	}
+    shuffleOff(this.mortalCoil);
+    for (dream : sleepOfDeath.getDreams()) {
+    	dream.givePause(this);
+    	dream.getRespect.makeCalamityOf(life);
+    }
 	
     /*For who would bear the whips and scorns of time,
       The oppressor's wrong, the proud man's contumely,
@@ -54,9 +54,8 @@ public class FourthSoliloquy {
       That patient merit of the unworthy takes,
       When he himself might his quietus make
       With a bare bodkin?*/
-	 
-	for (person : earth.getPeople()) {
-		if (!(person.wouldBear(time.getWhipsAndScorns()) || person.wouldBear(time.getOpressorsWrong()) || person.wouldBear(time.getProudMan().getContumely()) || person.wouldBear(time.getDespisedLove().getPangs()) || person.wouldBear(time.getLaw().getDelay()) || person.wouldBear(time.getOffice().getInsolence()) || person.wouldBear(time.getSpurnsTakenBy(time.getPatientMerit())))) {
+    for (person : earth.getPeople()) {
+        if (!(person.wouldBear(time.getWhipsAndScorns()) || person.wouldBear(time.getOpressorsWrong()) || person.wouldBear(time.getProudMan().getContumely()) || person.wouldBear(time.getDespisedLove().getPangs()) || person.wouldBear(time.getLaw().getDelay()) || person.wouldBear(time.getOffice().getInsolence()) || person.wouldBear(time.getSpurnsTakenBy(time.getPatientMerit())))) {
 			person.giveOption(life.death);
 		}
 	}
