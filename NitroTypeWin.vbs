@@ -1,5 +1,4 @@
 ' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#nitrotypewinvbs
-Dim objShell
 Set objShell = Wscript.CreateObject("WScript.Shell")
 objShell.Run "NitroTypeWinKill.vbs"
 Set wshshell = wscript.CreateObject("WScript.Shell")
