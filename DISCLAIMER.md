@@ -9,9 +9,18 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 A drifting game of epic amazingness
 
-## wscriptKill.bat
+## CapsLock.vbs
 
-Kills wscript.exe and makes sure CapsLock is off because reasons
+Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not. Here is the code as of 2015-06-25:
+
+````
+' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#capslockvbs
+Set wshShell=wscript.CreateObject("WScript.Shell")
+do
+wscript.sleep 100
+wshshell.sendkeys"{CAPSLOCK}"
+loop
+````
 
 ## cd.vbs
 
@@ -108,6 +117,10 @@ A script that can replace the One Night Ultimate Werewolf app if no smartphone i
 ## winsys32.exe
 
 A program that plays two very high-pitched sounds every ten seconds or so (be careful with the volume)
+
+## wscriptKill.bat
+
+Kills wscript.exe and makes sure CapsLock is off because CapsLock.vbs uses wscript.exe to toggle CapsLock
 
 ## BatchFiles folder
 
