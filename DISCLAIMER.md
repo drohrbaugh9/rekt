@@ -9,21 +9,9 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 A drifting game of epic amazingness
 
-## CapsLock.vbs
+## wscriptKill.bat
 
-Repeatedly toggles Caps Lock. Windows may see this file as a threat, it is not. Here is the code as of 2015-06-25:
-```
-' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#capslockvbs
-Set wshShell=wscript.CreateObject("WScript.Shell")
-do
-wscript.sleep 100
-wshshell.sendkeys"{CAPSLOCK}"
-loop
-```
-
-## CapsLockKill.bat
-
-Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off when it's done
+Kills wscript.exe and makes sure CapsLock is off because reasons
 
 ## cd.vbs
 
