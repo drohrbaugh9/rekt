@@ -9,9 +9,9 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 A drifting game of epic amazingness
 
-## CapsLockKill.bat
+## wscriptKill.bat
 
-Stops CapsLock.vbs from toggling Caps Lock and makes sure that Caps Lock is off when it's done
+Kills wscript.exe and makes sure CapsLock is off because reasons
 
 ## cd.vbs
 
