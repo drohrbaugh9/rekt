@@ -110,6 +110,10 @@ A local copy of part of LCHS's Class of 2015's senior prank; they offered the sc
 
 A program that "enables" "Windows Voice" (speaks messages using Window's built in text to voice function)
 
+## TODO.txt
+
+A list of things that need to be done for the repository
+
 ## werewolf.vbs
 
 A script that can replace the One Night Ultimate Werewolf app if no smartphone is available

@@ -1,0 +1,11 @@
+Add following files to DISCLAIMER:
+	BatchFiles/_Abort.bat
+	BatchFiles/TaskManager.bat
+
+Add links from DISCLAIMER to following files:
+	herring.vbs
+	TODO.txt
+	USER32.dll_LCHSacropolis.txt
+	USER32.dll_Lenovo.txt
+	werewolf.vbs
+	

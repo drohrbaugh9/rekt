@@ -1,4 +1,3 @@
-' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#speakvbs
 Dim sapi
 Set sapi=CreateObject("sapi.spvoice")
 sapi.Speak "Then, when you have found the shrubbery, you must cut down the mightiest tree in the forest"
