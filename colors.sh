@@ -1,0 +1,8 @@
+echo -e "\x1b[47;30mblack\x1b[0m"
+echo -e "\x1b[0;31mred\x1b[0m"
+echo -e "\x1b[0;32mgreen\x1b[0m"
+echo -e "\x1b[0;33myellow\x1b[0m"
+echo -e "\x1b[0;34mblue\x1b[0m"
+echo -e "\x1b[0;35mpurple\x1b[0m"
+echo -e "\x1b[0;36mcyan\x1b[0m"
+echo -e "\x1b[0;37mwhite\x1b[0m"
