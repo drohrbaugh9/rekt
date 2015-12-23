@@ -1,6 +1,7 @@
 Add following files to DISCLAIMER:
 	BatchFiles/_Abort.bat
 	BatchFiles/TaskManager.bat
+	message.vbs
 
 Add links from DISCLAIMER to following files:
 	herring.vbs
