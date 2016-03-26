@@ -1,9 +1,9 @@
 Add following files to DISCLAIMER:
-	BatchFiles/_Abort.bat
-	BatchFiles/TaskManager.bat
-	message.vbs
 
 Add links from DISCLAIMER to following files:
+	message.vbs
+	BatchFiles/TaskManager.bat
+	BatchFiles/_Abort.bat
 	herring.vbs
 	TODO.txt
 	USER32.dll_LCHSacropolis.txt
