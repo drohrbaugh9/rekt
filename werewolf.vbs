@@ -1,5 +1,7 @@
+' https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#werewolfvbs
 Dim sapi, actionTime, pauseTime, directionsPause, discussionTime,  decision, doppelganger, minion, masons, drunk, insomniac
 Set sapi=CreateObject("sapi.spvoice")
+sapi.Rate = -2
 actionTime=1000*InputBox("How many seconds should I wait for players to complete their action during the night?", "Game Setup")
 pauseTime=2000
 directionsPause=500
@@ -106,8 +108,8 @@ sapi.Speak "Everyone, keep your eyes closed. Find your card and move it around s
 WScript.Sleep pauseTime
 sapi.Speak "Everyone, wake up."
 WScript.Sleep discussionTime - 60000
-sapi.Speak "One minit left." 'Minute is spelled wrong so it is said correctly
+sapi.Speak "One minit left before voting." 'Minute is spelled wrong so it is said correctly
 WScript.Sleep 30000
-sapi.Speak "Thirty seconds left."
+sapi.Speak "Thirty seconds left before voting."
 WScript.Sleep 30000
 sapi.Speak "Everyone, three, two, one, vote!"
