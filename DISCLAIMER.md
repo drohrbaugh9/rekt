@@ -56,11 +56,15 @@ A LOLCODE version of the classic HelloWorld program
 
 ## herring.vbs
 
-A script that uses Windows' text to voice function to say a famous quote from "Monty Python and the Holy Grail"
+A script that uses Windows' text to voice function to say a famous quote from "Monty Python and the Holy Grail." (It's not very good.)
 
 ## mari0-win.zip
 
 A game combining Super Mario Bros and Portal
+
+## message.vbs
+
+Causes a series of messages to appear on the screen
 
 ## NitroTypeWin.vbs
 
@@ -132,6 +136,10 @@ Kills wscript.exe and makes sure CapsLock is off because CapsLock.vbs uses wscri
 
 A file to prevent the accidental running of a batch file upon opening this folder
 
+### _Abort.bat
+
+Does exactly what the name says by aborting any shutdown /X command (X is some letter other than a)
+
 ### _LogOff.bat
 
 Does exactly what the name says by logging off
@@ -179,6 +187,10 @@ Plays a short sound
 ### SuicidalBatchFile.bat
 
 Immediately kills itself
+
+### TaskManager.bat
+
+Runs the Windows Task Manager
 
 ### time.bat
 
