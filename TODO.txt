@@ -1,6 +1,7 @@
 https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#todotxt
 
 Add following files to DISCLAIMER:
+	screenFlip.vbs
 
 Add links from DISCLAIMER to following files:
 	USER32.dll_LCHSacropolis.txt
