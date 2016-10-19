@@ -9,10 +9,6 @@ A JavaScript file referenced by PageNotFoundGitHub.html
 
 A drifting game of epic amazingness
 
-## cd.vbs
-
-Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
-
 ## DISCLAIMER.md
 
 This file
@@ -41,17 +37,9 @@ A .swf file containing Fancy Pants World 2, the second game in Brad Borne's Fanc
 
 A LOLCODE version of the classic HelloWorld program
 
-## herring.vbs
-
-A script that uses Windows' text to voice function to say a famous quote from "Monty Python and the Holy Grail." (It's not very good.)
-
 ## mari0-win.zip
 
 A game combining Super Mario Bros and Portal
-
-## message.vbs
-
-Causes a series of messages to appear on the screen
 
 ## NitroTypeWin.vbs
 
@@ -262,3 +250,17 @@ Shadow for the marker for the map showing where LCHS is
 ### postings-concat.min.js
 
 Another JavaScript file used by the webpage
+
+## VBScripts folder
+
+### cd.vbs
+
+Opens the CD drive on your computer ten times. The user closes it in frustration each time it opens.
+
+### herring.vbs
+
+A script that uses Windows' text to voice function to say a famous quote from "Monty Python and the Holy Grail." (It's not very good.)
+
+### message.vbs
+
+Causes a series of messages to appear on the screen
