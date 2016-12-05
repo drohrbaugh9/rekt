@@ -1,5 +1,6 @@
 clear
-t=1 #0.5
+t=0.5
+v=1
 r="\x1b[0;31m"
 y="\x1b[0;33m"
 b="\x1b[0;34m"
@@ -16,16 +17,18 @@ do
 	sleep $t
 	echo -e "\x1b[1;1H$r###  \n $b#   \n##   \n  $y###$e"
 	sleep $t
-	echo -e "\x1b[1;1H $r### \n ##  \n #   \n ### "
+	echo -e "\x1b[1;1H $r### \n $b##  \n #   \n $y###$e "
 	sleep $t
-	echo -e "\x1b[1;1H  ###\n ### \n     \n ### "
+	echo -e "\x1b[1;1H  $r###\n $b### \n     \n $y###$e "
 	sleep $t
-	echo -e "\x1b[1;1H   ##\n ####\n     \n ### "
+	echo -e "\x1b[1;1H   $r##\n $b###$r#\n     \n $y###$e "
 	sleep $t
-	echo -e "\x1b[1;1H    #\n ####\n    #\n ### "
+	echo -e "\x1b[1;1H    $r#\n $b###$r#\n    #\n $y###$e "
 	sleep $t
-	echo -e "\x1b[1;1H     \n ####\n   ##\n ### "
+	echo -e "\x1b[1;1H     \n $b###$r#\n   ##\n $y###$e "
 	sleep $t
-	echo -e "\x1b[1;1H     \n ### \n  ###\n ### "
+	echo -e "\x1b[1;1H     \n $b### \n  $r###\n $y###$e "
 	sleep $t
+	echo -e "\x1b[1;1H     \n $b### \n $r### \n $y###$e "
+	sleep $v
 done
