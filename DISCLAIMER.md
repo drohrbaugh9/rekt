@@ -1,6 +1,14 @@
 # DISCLAIMER
 Before you run any program, check the list below to see what it will do. If you mess up your computer or someone else's computer, it is not my fault.
 
+## .gitattributes
+
+A file created by Git
+
+## .gitignore
+
+Another file created by Git
+
 ## _error.js
 
 A JavaScript file referenced by PageNotFoundGitHub.html
@@ -16,6 +24,10 @@ This file
 ## emptyWhile(true)Loop.exe
 
 Simply runs a while(true) loop with no code inside
+
+## explorerkill.exe
+
+A well-named executable the kills explorer.exe, and more
 
 ## FourthSoliloquy.java
 
@@ -37,29 +49,13 @@ A .swf file containing Fancy Pants World 2, the second game in Brad Borne's Fanc
 
 A LOLCODE version of the classic HelloWorld program
 
+## ladder.jar
+
+An ASCII game (I don't remember what it's about)
+
 ## mari0-win.zip
 
 A game combining Super Mario Bros and Portal
-
-## NitroTypeWin.vbs
-
-A script that allows users to reach a speed of up to 300 WPM on the Nitro Type website. Only run this script when racing as a guest, otherwise you will get <b>banned.</b> This script automatically starts NitroTypeWinKill.vbs. <b>DO NOT</b> set the delay lower than 50 milliseconds. You've been warned.
-
-### How to use:
-
-1. Go to [nitrotype.com](https://www.nitrotype.com)
-1. If you are logged in, log out
-1. Race as a guest
-1. Do the qualification race if there is one
-1. Race again
-1. Wait until the race is about to start
-1. Run this script
-1. Click back to your web browser
-1. Click on the box where the words are on the Nitro Type page
-
-## NitroTypeWinKill.vbs
-
-A script that is run by NitroTypeWin.vbs which kills it after 60 seconds.
 
 ## notpacman-win.zip
 
@@ -85,17 +81,17 @@ A sound file that sounds like a rooster crowing (be careful with your volume)
 
 A local copy of part of LCHS's Class of 2015's senior prank; they offered the school for sale on Craigslist.
 
-## speak.vbs
-
-A program that "enables" "Windows Voice" (speaks messages using Window's built in text to voice function)
-
 ## TODO.txt
 
 A list of things that need to be done for the repository
 
-## werewolf.vbs
+## USER32.dll_DellOptiplex960.txt
 
-A script that can replace the One Night Ultimate Werewolf app if no smartphone is available
+A copy of the USER32.dll file from a Dell Optiplex 960 desktop computer
+
+## USER32.dll_Lenovo.txt
+
+A copy of the USER32.dll file from a Lenovo E531 laptop computer
 
 ## winsys32.exe
 
@@ -264,3 +260,35 @@ A script that uses Windows' text to voice function to say a famous quote from "M
 ### message.vbs
 
 Causes a series of messages to appear on the screen
+
+### NitroTypeWin.vbs
+
+A script that allows users to reach a speed of up to 300 WPM on the Nitro Type website. Only run this script when racing as a guest, otherwise you will get <b>banned.</b> This script automatically starts NitroTypeWinKill.vbs. <b>DO NOT</b> set the delay lower than 50 milliseconds. You've been warned.
+
+#### How to use:
+
+1. Go to [nitrotype.com](https://www.nitrotype.com)
+1. If you are logged in, log out
+1. Race as a guest
+1. Do the qualification race if there is one
+1. Race again
+1. Wait until the race is about to start
+1. Run this script
+1. Click back to your web browser
+1. Click on the box where the words are on the Nitro Type page
+
+### NitroTypeWinKill.vbs
+
+A script that is run by NitroTypeWin.vbs which kills it after 60 seconds.
+
+### screenFlip.vbs
+
+A script that flips your screen by sending the keystrokes Ctrl-Alt-<arrow key>
+
+### speak.vbs
+
+A program that "enables" "Windows Voice" (speaks messages using Window's built in text to voice function)
+
+### werewolf.vbs
+
+A script that can replace the One Night Ultimate Werewolf app if no smartphone is available

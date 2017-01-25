@@ -1,10 +1,10 @@
 https://github.com/drohrbaugh9/rekt/blob/shrekt/DISCLAIMER.md#todotxt
 
 Add following files to DISCLAIMER:
-	screenFlip.vbs
-	ladder.jar
 
 Add links from DISCLAIMER to following files:
+	ladder.jar
+	screenFlip.vbs
 	USER32.dll_LCHSacropolis.txt
 	USER32.dll_Lenovo.txt
 	
